@@ -25,10 +25,6 @@ Post Talk 2:
 
 Tutorial 4: 
 -----------
-Deployment/ ML Ops: Flask and C++. See: https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html and https://pytorch.org/tutorials/beginner/Intro_to_TorchScript_tutorial.html
-
-Tutorial 5: 
------------
 `3D Spleen Segmentation <notebooks/spleen_segmentation_3d.ipynb>`__.
 
 Google Colab: https://colab.research.google.com/github/kitware/ais2-tutorials/blob/master/notebooks/spleen_segmenation_3d.ipynb
