@@ -29,4 +29,6 @@ Deployment/ ML Ops: Flask and C++. See: https://pytorch.org/tutorials/intermedia
 
 Tutorial 5: 
 -----------
-Segmentation (with some modification). See: https://github.com/Project-MONAI/MONAI/blob/master/examples/notebooks/spleen_segmentation_3d.ipynb
+`3D Spleen Segmentation <notebooks/spleen_segmentation_3d.ipynb>`__.
+
+Google Colab: https://colab.research.google.com/github/kitware/ais2-tutorials/blob/master/notebooks/spleen_segmenation_3d.ipynb
