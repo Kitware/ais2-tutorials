@@ -27,4 +27,4 @@ Tutorial 4:
 -----------
 `3D Spleen Segmentation <notebooks/spleen_segmentation_3d.ipynb>`__.
 
-Google Colab: https://colab.research.google.com/github/kitware/ais2-tutorials/blob/master/notebooks/spleen_segmenation_3d.ipynb
+Google Colab: https://colab.research.google.com/github/kitware/ais2-tutorials/blob/master/notebooks/spleen_segmentation_3d.ipynb
